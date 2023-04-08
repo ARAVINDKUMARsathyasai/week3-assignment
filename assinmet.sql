@@ -1,0 +1,5 @@
+SHOW DATABASES
+CREATE DATABASE AXIS
+USE  AXIS
+CREATE TABLE employee (id INT(23) , NAME TEXT (50), address TEXT (50), salary INT(30))
+DESC employee
